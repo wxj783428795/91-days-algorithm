@@ -15,7 +15,7 @@
 - [x] [414. 第三大的数](./1.basic/1.array-stack-queue/third-maximum-number.md)
 - [x] [剑指 Offer 53 - II. 0～n-1中缺失的数字](./1.basic/1.array-stack-queue/que-shi-de-shu-zi-lcof.md)
 - [x] [88. 合并两个有序数组](./1.basic/1.array-stack-queue/merge-sorted-array.md)
-- [ ] [41. 缺失的第一个正数]()
+- [x] [41. 缺失的第一个正数](./1.basic/1.array-stack-queue/first-missing-positive.md)
 
 ##### 栈
 - [x] [946. 验证栈序列](./1.basic/1.array-stack-queue/validate-stack-sequences.md)
