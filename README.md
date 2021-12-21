@@ -10,6 +10,9 @@
 - [x] [【day-03】1381. 设计一个支持增量操作的栈](./1.basic/1.array-stack-queue/design-a-stack-with-increment-operation.md)
 - [x] [【day-04】394. 字符串解码](./1.basic/1.array-stack-queue/decode-string.md)
 - [x] [【day-05】232. 用栈实现队列](./1.basic/1.array-stack-queue/implement-queue-using-stacks.md)
+- [ ] [【day-06】768. 最多能完成排序的块 II](./1.basic/1.array-stack-queue/max-chunks-to-make-sorted-ii.md) 
+- [x] [【day-07】61. 旋转链表](./1.basic/2.linked-list/rotate-list.md)
+- [x] [【day-08】24. 两两交换链表中的节点](./1.basic/2.linked-list/swap-nodes-in-pairs.md)
 
 ##### 数组
 - [x] [414. 第三大的数](./1.basic/1.array-stack-queue/third-maximum-number.md)
