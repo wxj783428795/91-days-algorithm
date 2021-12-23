@@ -13,6 +13,7 @@
 - [x] [【day-07】61. 旋转链表](./1.basic/2.linked-list/rotate-list.md)
 - [x] [【day-08】24. 两两交换链表中的节点](./1.basic/2.linked-list/swap-nodes-in-pairs.md)
 - [x] [【day-09】109. 有序链表转换二叉搜索树](./1.basic/2.linked-list/convert-sorted-list-to-binary-search-tree.md)
+- [x] [【day-10】160. 相交链表](./1.basic/2.linked-list/intersection-of-two-linked-lists.md)
 - [x] [【day-12】146. LRU 缓存机制](./1.basic/2.linked-list/lru-cache.md)
 
 ##### 数组
