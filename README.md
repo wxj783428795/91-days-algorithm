@@ -26,5 +26,6 @@
 
 ##### 栈
 - [x] [946. 验证栈序列](./1.basic/1.array-stack-queue/validate-stack-sequences.md)
+- [x] [150. 逆波兰表达式求值](./1.basic/1.array-stack-queue/evaluate-reverse-polish-notation.md)
 
 ##### 树
