@@ -4,6 +4,7 @@
 ### 数组，栈，队列
 
 #### 每日一题
+- [x] [【day-13】104. 二叉树的最大深度](./1.basic/3.tree/maximum-depth-of-binary-tree.md)
 - [x] [【day-12】146. LRU 缓存机制](./1.basic/2.linked-list/lru-cache.md)
 - [x] [【day-11】142. 环形链表 II](./1.basic/2.linked-list/linked-list-cycle-ii.md)
 - [x] [【day-10】160. 相交链表](./1.basic/2.linked-list/intersection-of-two-linked-lists.md)
@@ -25,3 +26,5 @@
 
 ##### 栈
 - [x] [946. 验证栈序列](./1.basic/1.array-stack-queue/validate-stack-sequences.md)
+
+##### 树
