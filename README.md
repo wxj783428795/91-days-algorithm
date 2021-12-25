@@ -4,6 +4,8 @@
 ### 数组，栈，队列
 
 #### 每日一题
+- [x] [【day-15】129. 求根节点到叶节点数字之和](./1.basic/3.tree/sum-root-to-leaf-numbers.md)
+- [x] [【day-14】100. 相同的树](./1.basic/3.tree/same-tree.md)
 - [x] [【day-13】104. 二叉树的最大深度](./1.basic/3.tree/maximum-depth-of-binary-tree.md)
 - [x] [【day-12】146. LRU 缓存机制](./1.basic/2.linked-list/lru-cache.md)
 - [x] [【day-11】142. 环形链表 II](./1.basic/2.linked-list/linked-list-cycle-ii.md)
