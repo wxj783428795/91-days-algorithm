@@ -34,3 +34,5 @@
 - [x] [206. 反转链表](./1.basic/2.linked-list/reverse-linked-list.md)
 
 ##### 树
+- [x] [94. 二叉树的中序遍历](./1.basic/3.tree/binary-tree-inorder-traversal.md)
+- [x] [105. 从前序与中序遍历序列构造二叉树](./1.basic/3.tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
