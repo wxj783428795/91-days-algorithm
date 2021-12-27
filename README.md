@@ -37,3 +37,4 @@
 - [x] [94. 二叉树的中序遍历](./1.basic/3.tree/binary-tree-inorder-traversal.md)
 - [x] [105. 从前序与中序遍历序列构造二叉树](./1.basic/3.tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
 - [x] [106. 从中序与后序遍历序列构造二叉树](./1.basic/3.tree/construct-binary-tree-from-inorder-and-postorder-traversal.md)
+- [x] [110. 平衡二叉树](./1.basic/3.tree/balanced-binary-tree.md)
