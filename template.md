@@ -1,5 +1,5 @@
 # 算法题 title
-[leetcode 地址]( )
+[leetcode 地址]()
 
 ## 题目描述
 
