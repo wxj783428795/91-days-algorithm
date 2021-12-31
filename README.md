@@ -1,9 +1,13 @@
-91天后见
+91天后见！！！
 
 ## 基础篇
 ### 数组，栈，队列
 
 #### 每日一题
+- [x] [【day-19】1. 两数之和](./1.basic/4.hash-table/two-sum.md)
+- [x] [【day-18】987. 二叉树的垂序遍历](./1.basic/3.tree/vertical-order-traversal-of-a-binary-tree.md)
+- [x] [【day-17】297. 二叉树的序列化与反序列化](./1.basic/3.tree/serialize-and-deserialize-binary-tree.md)
+- [x] [【day-16】513. 找树左下角的值](./1.basic/3.tree/find-bottom-left-tree-value.md)
 - [x] [【day-15】129. 求根节点到叶节点数字之和](./1.basic/3.tree/sum-root-to-leaf-numbers.md)
 - [x] [【day-14】100. 相同的树](./1.basic/3.tree/same-tree.md)
 - [x] [【day-13】104. 二叉树的最大深度](./1.basic/3.tree/maximum-depth-of-binary-tree.md)
