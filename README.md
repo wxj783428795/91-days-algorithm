@@ -4,6 +4,7 @@
 ### 数组，栈，队列
 
 #### 每日一题
+- [x] [【day-21】447. 回旋镖的数量](./1.basic/4.hash-table/number-of-boomerangs.md)
 - [x] [【day-20】347. 前 K 个高频元素](./1.basic/4.hash-table/top-k-frequent-elements.md)
 - [x] [【day-19】1. 两数之和](./1.basic/4.hash-table/two-sum.md)
 - [x] [【day-18】987. 二叉树的垂序遍历](./1.basic/3.tree/vertical-order-traversal-of-a-binary-tree.md)
