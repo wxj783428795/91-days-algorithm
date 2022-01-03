@@ -4,6 +4,7 @@
 ### 数组，栈，队列
 
 #### 每日一题
+- [x] [【day-23】30. 串联所有单词的子串](./1.basic/4.hash-table/substring-with-concatenation-of-all-words.md)
 - [x] [【day-22】3. 无重复字符的最长子串](./1.basic/4.hash-table/longest-substring-without-repeating-characters.md)
 - [x] [【day-21】447. 回旋镖的数量](./1.basic/4.hash-table/number-of-boomerangs.md)
 - [x] [【day-20】347. 前 K 个高频元素](./1.basic/4.hash-table/top-k-frequent-elements.md)
