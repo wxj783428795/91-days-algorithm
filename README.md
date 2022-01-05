@@ -29,7 +29,6 @@
 - [x] [【day-08】24. 两两交换链表中的节点](./1.basic/2.linked-list/swap-nodes-in-pairs.md)
 - [x] [【day-07】61. 旋转链表](./1.basic/2.linked-list/rotate-list.md)
 #### 额外
-##### 链表
 - [x] [206. 反转链表](./1.basic/2.linked-list/reverse-linked-list.md)
 ### 二叉树
 #### 每日一题
@@ -40,7 +39,6 @@
 - [x] [【day-14】100. 相同的树](./1.basic/3.tree/same-tree.md)
 - [x] [【day-13】104. 二叉树的最大深度](./1.basic/3.tree/maximum-depth-of-binary-tree.md)
 #### 额外
-##### 树
 - [x] [94. 二叉树的中序遍历](./1.basic/3.tree/binary-tree-inorder-traversal.md)
 - [x] [105. 从前序与中序遍历序列构造二叉树](./1.basic/3.tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
 - [x] [106. 从中序与后序遍历序列构造二叉树](./1.basic/3.tree/construct-binary-tree-from-inorder-and-postorder-traversal.md)
@@ -56,6 +54,8 @@
 - [x] [【day-21】447. 回旋镖的数量](./1.basic/4.hash-table/number-of-boomerangs.md)
 - [x] [【day-20】347. 前 K 个高频元素](./1.basic/4.hash-table/top-k-frequent-elements.md)
 - [x] [【day-19】1. 两数之和](./1.basic/4.hash-table/two-sum.md)
+#### 额外
+- [] [974. 和可被 K 整除的子数组](./1.basic/4.hash-table/subarray-sums-divisible-by-k.md)
 
 ### 双指针
 #### 每日一题
