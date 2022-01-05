@@ -60,4 +60,5 @@
 ### 双指针
 #### 每日一题
 - [x] [【day-25】876. 链表的中间结点](./1.basic/5.double-pointer/middle-of-the-linked-list.md)
+- [x] [【day-26】26. 删除有序数组中的重复项](./1.basic/5.double-pointer/remove-duplicates-from-sorted-array.md)
 
